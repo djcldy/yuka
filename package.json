@@ -60,6 +60,5 @@
     "serve": "11.3.2",
     "text-encoding": "0.7.0",
     "tui-jsdoc-template": "1.2.2"
-  },
-  "dependencies": {}
+  }
 }
